@@ -1,5 +1,5 @@
 {
-  "name": "generator-react-basic",
+  "name": "@jefreesujit/generator-react-basic",
   "version": "1.0.0",
   "description": "Yeoman generator to setup a basic stand-alone React app with Babel and Webpack",
   "homepage": "https://jefreesujit.github.io",
