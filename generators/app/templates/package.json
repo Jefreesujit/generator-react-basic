@@ -39,6 +39,7 @@
     "node-sass": "^3.4.2",
     "node-sass-import": "^1.0.0",
     "npm-run-all": "^1.5.1",
+    "react-context-state": "^0.0.1",
     "vulcanize": "^1.14.8",
     "webpack": "^2.7.0"
   },
